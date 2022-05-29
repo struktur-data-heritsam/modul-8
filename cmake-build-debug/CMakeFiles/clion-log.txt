@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/heritsam/Documents/CProjects/STD_MOD8_DS4501_1305213031 -B /Users/heritsam/Documents/CProjects/STD_MOD8_DS4501_1305213031/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/heritsam/Documents/CProjects/STD_MOD8_DS4501_1305213031/cmake-build-debug
